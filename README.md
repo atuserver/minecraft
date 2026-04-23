@@ -29,3 +29,10 @@ Push または PR で自動ビルドされ、Artifacts から Jar をダウン�
 ## メモ
 この環境では外部 Maven へのアクセス制限により依存解決が失敗する可能性があります。  
 その場合は GitHub Actions 上でのビルドを利用してください。
+
+
+## ボス実装ドキュメント
+- `docs/BOSS_IMPLEMENTATION_GUIDE_JA.md`
+- `docs/ASSET_CHECKLIST_JA.md`
+
+GeckoLibを使ったボス・BGM・ボスバー・ダンジョン構造の実装方針をまとめています。
