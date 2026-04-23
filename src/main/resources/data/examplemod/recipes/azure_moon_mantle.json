@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": { "item": "examplemod:moon_shard" }
+  },
+  "result": {
+    "item": "examplemod:azure_moon_mantle"
+  }
+}

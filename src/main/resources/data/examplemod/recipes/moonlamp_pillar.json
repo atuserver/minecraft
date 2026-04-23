@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SMS",
+    "MLM",
+    "SMS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:smooth_stone" },
+    "M": { "item": "examplemod:moon_shard" },
+    "L": { "item": "minecraft:lantern" }
+  },
+  "result": {
+    "item": "examplemod:moonlamp_pillar"
+  }
+}

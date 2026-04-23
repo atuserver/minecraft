@@ -1,0 +1,16 @@
+{
+  "entity.examplemod.luna_valdis": "Luna Valdis, Guardian of the Azure Moon",
+  "entity.examplemod.rune_archer": "Rune Archer",
+  "entity.examplemod.lamp_slime": "Lamp Slime",
+  "entity.examplemod.tomb_guard": "Tomb Guard",
+  "entity.examplemod.vice_knight": "Vice Knight",
+  "item.examplemod.luna_valdis_spawn_egg": "Luna Valdis Spawn Egg",
+  "item.examplemod.rune_archer_spawn_egg": "Rune Archer Spawn Egg",
+  "item.examplemod.lamp_slime_spawn_egg": "Lamp Slime Spawn Egg",
+  "item.examplemod.tomb_guard_spawn_egg": "Tomb Guard Spawn Egg",
+  "item.examplemod.vice_knight_spawn_egg": "Vice Knight Spawn Egg",
+  "item.examplemod.moon_shard": "Moon Shard",
+  "item.examplemod.luna_blade": "Lunablade",
+  "item.examplemod.azure_moon_mantle": "Azure Moon Mantle",
+  "block.examplemod.moonlamp_pillar": "Moonlamp Pillar"
+}

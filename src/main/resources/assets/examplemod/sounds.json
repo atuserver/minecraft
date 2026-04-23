@@ -1,0 +1,6 @@
+{
+  "boss.luna.phase1": { "subtitle": "Luna Valdis hums", "sounds": ["minecraft:music/game/end"] },
+  "boss.luna.phase2": { "subtitle": "Luna Valdis roars", "sounds": ["minecraft:music/game/nether/nether_wastes"] },
+  "boss.luna.parry": { "subtitle": "Luna parries", "sounds": ["minecraft:item.shield.block"] },
+  "boss.luna.moonfall": { "subtitle": "Moonfall erupts", "sounds": ["minecraft:entity.generic.explode"] }
+}
