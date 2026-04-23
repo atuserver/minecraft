@@ -1,5 +1,6 @@
 package com.example.examplemod;
 
+import com.example.examplemod.registry.ModBlocks;
 import com.example.examplemod.registry.ModEntities;
 import com.example.examplemod.registry.ModItems;
 import com.mojang.logging.LogUtils;
@@ -17,5 +18,6 @@ public class ExampleMod {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModEntities.ENTITY_TYPES.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
     }
 }

@@ -1,4 +1,16 @@
 {
   "entity.examplemod.luna_valdis": "蒼月の守護騎士 ルナ＝ヴァルディス",
-  "item.examplemod.luna_valdis_spawn_egg": "ルナ＝ヴァルディスのスポーンエッグ"
+  "entity.examplemod.rune_archer": "ルーンアーチャー",
+  "entity.examplemod.lamp_slime": "灯火スライム",
+  "entity.examplemod.tomb_guard": "封廟ガード",
+  "entity.examplemod.vice_knight": "月牢の副騎士",
+  "item.examplemod.luna_valdis_spawn_egg": "ルナ＝ヴァルディスのスポーンエッグ",
+  "item.examplemod.rune_archer_spawn_egg": "ルーンアーチャーのスポーンエッグ",
+  "item.examplemod.lamp_slime_spawn_egg": "灯火スライムのスポーンエッグ",
+  "item.examplemod.tomb_guard_spawn_egg": "封廟ガードのスポーンエッグ",
+  "item.examplemod.vice_knight_spawn_egg": "月牢の副騎士のスポーンエッグ",
+  "item.examplemod.moon_shard": "月殻片",
+  "item.examplemod.luna_blade": "月誓剣ルナブレイド",
+  "item.examplemod.azure_moon_mantle": "蒼月のマント",
+  "block.examplemod.moonlamp_pillar": "月灯柱"
 }
