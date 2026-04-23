@@ -1,0 +1,15 @@
+{
+  "name": "examplemod:azure_moon/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "examplemod:azure_moon/arena_core",
+        "processors": "examplemod:azure_moon_processors",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

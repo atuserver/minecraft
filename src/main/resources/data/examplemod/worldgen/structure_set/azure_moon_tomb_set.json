@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "examplemod:azure_moon_tomb",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 93552213,
+    "spacing": 34,
+    "separation": 12
+  }
+}

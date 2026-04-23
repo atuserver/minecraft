@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:is_overworld",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_box",
+  "start_pool": "examplemod:azure_moon/start_pool",
+  "size": 3,
+  "start_height": { "absolute": 40 },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false,
+  "spawn_overrides": {}
+}
